@@ -4,10 +4,16 @@ This project focuses on building a secure authentication system using Express.js
 
 ## Project technologies
 
-. Node.js
-. Express.js
-. Nodemon
-. Dotenv
-. Jsonwebtoken
-. Bcryptjs
-. Mongoose
+- Node.js
+
+- Express.js
+
+- Nodemon
+
+- Dotenv
+
+- Jsonwebtoken
+
+- Bcryptjs
+
+- Mongoose
